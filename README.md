@@ -6,7 +6,7 @@ Founder & Editor-in-Chief at [Genesis Gazette](https://genesisgazette.com) (IB G
 
 ---
 
-### Key Projects & Research
+### Key Projects
 
 | Project | Focus / Problem Solved | Core Stack | Links |
 | :--- | :--- | :--- | :--- |
