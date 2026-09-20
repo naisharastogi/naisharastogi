@@ -6,15 +6,6 @@ Founder & Editor-in-Chief at [Genesis Gazette](https://genesisgazette.com) (IB G
 
 ---
 
-### Academic & Computational Focus
-
-- **Kinematics & Computational Physics:** Developing simulation models for aerodynamic projectile motion, quadratic drag, and the Magnus effect using JavaScript & HTML5 Canvas.
-- **Complex Systems Modeling:** Implemented evolutionary biology and population genetics simulations (drift, mutation rates) as an EPFL *Nature in Code* Scholar.
-- **Clean Tech & Systems Architecture:** Researched AI-driven charge/discharge integration architectures for low-cost, rare-earth-free sand/salt energy storage with The New York Academy of Sciences (NYAS).
-- **Scholastic Honors:** Shortlisted for the John Locke Global Essay Prize 2026 (Economics), AMC 12 Certificate of Merit, and Rank 4 in the Math Around Us National Competition.
-
----
-
 ### Key Projects & Research
 
 | Project | Focus / Problem Solved | Core Stack | Links |
