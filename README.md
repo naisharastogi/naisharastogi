@@ -21,10 +21,3 @@ Founder & Editor-in-Chief at [Genesis Gazette](https://genesisgazette.com) (IB G
 * **Web & Graphics:** HTML5 Canvas API, CSS3, Full-Stack Architecture, RESTful Integrations
 * **Databases & Tools:** MySQL, MongoDB, Git, GitHub, Figma, UI/UX Prototyping
 * **Certifications:** AWS Cloud Practitioner & Compute, IBM AI Fundamentals, IBM Cybersecurity Fundamentals, HKUST Calculus for Engineers
-
----
-
-### Connect
-
-- **Website:** [genesisgazette.com](https://genesisgazette.com)
-- **LinkedIn:** [linkedin.com/in/naisha-rastogi](https://linkedin.com/in/naisha-rastogi) 
