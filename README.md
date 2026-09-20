@@ -36,4 +36,4 @@ Founder & Editor-in-Chief at [Genesis Gazette](https://genesisgazette.com) (IB G
 ### Connect
 
 - **Website:** [genesisgazette.com](https://genesisgazette.com)
-- **LinkedIn:** [linkedin.com/in/naisharastogi](https://linkedin.com/in/naisharastogi) 
+- **LinkedIn:** [linkedin.com/in/naisha-rastogi](https://linkedin.com/in/naisha-rastogi) 
