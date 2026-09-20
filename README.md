@@ -1,4 +1,4 @@
-# Hi, I'm Naisha Rastogi 👋
+# Hi, I'm Naisha 👋
 
 I am a student and computational researcher exploring the intersection of **applied physics modeling**, **computational mathematics**, and **sustainable systems architecture**. 
 
@@ -6,16 +6,16 @@ Founder & Editor-in-Chief at [Genesis Gazette](https://genesisgazette.com) (IB G
 
 ---
 
-### 🔬 Academic & Computational Focus
+### Academic & Computational Focus
 
-- 🎾 **Kinematics & Computational Physics:** Developing simulation models for aerodynamic projectile motion, quadratic drag, and the Magnus effect using JavaScript & HTML5 Canvas.
-- 🧬 **Complex Systems Modeling:** Implemented evolutionary biology and population genetics simulations (drift, mutation rates) as an EPFL *Nature in Code* Scholar.
-- ⚡ **Clean Tech & Systems Architecture:** Researched AI-driven charge/discharge integration architectures for low-cost, rare-earth-free sand/salt energy storage with The New York Academy of Sciences (NYAS).
-- 📜 **Scholastic Honors:** Shortlisted for the John Locke Global Essay Prize 2026 (Economics), AMC 12 Certificate of Merit, and Rank 4 in the Math Around Us National Competition.
+- **Kinematics & Computational Physics:** Developing simulation models for aerodynamic projectile motion, quadratic drag, and the Magnus effect using JavaScript & HTML5 Canvas.
+- **Complex Systems Modeling:** Implemented evolutionary biology and population genetics simulations (drift, mutation rates) as an EPFL *Nature in Code* Scholar.
+- **Clean Tech & Systems Architecture:** Researched AI-driven charge/discharge integration architectures for low-cost, rare-earth-free sand/salt energy storage with The New York Academy of Sciences (NYAS).
+- **Scholastic Honors:** Shortlisted for the John Locke Global Essay Prize 2026 (Economics), AMC 12 Certificate of Merit, and Rank 4 in the Math Around Us National Competition.
 
 ---
 
-### 🚀 Key Projects & Research
+### Key Projects & Research
 
 | Project | Focus / Problem Solved | Core Stack | Links |
 | :--- | :--- | :--- | :--- |
@@ -24,7 +24,7 @@ Founder & Editor-in-Chief at [Genesis Gazette](https://genesisgazette.com) (IB G
 
 ---
 
-### 🛠️ Technical Toolkit
+### Technical Toolkit
 
 * **Languages:** JavaScript (ES6+), Python, C#, PHP
 * **Web & Graphics:** HTML5 Canvas API, CSS3, Full-Stack Architecture, RESTful Integrations
@@ -33,7 +33,7 @@ Founder & Editor-in-Chief at [Genesis Gazette](https://genesisgazette.com) (IB G
 
 ---
 
-### 📬 Connect
+### Connect
 
 - **Website:** [genesisgazette.com](https://genesisgazette.com)
 - **LinkedIn:** [linkedin.com/in/naisharastogi](https://linkedin.com/in/naisharastogi) 
