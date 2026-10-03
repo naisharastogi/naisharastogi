@@ -1,4 +1,4 @@
-## Hi, I'm Naisha Rastogi 👋
+## hi, I'm naisha 👋
 
 I am an IB Diploma candidate (Math AA HL, Physics HL, Chemistry HL) and software builder developing at the intersection of **full-stack web architecture**, **computational modeling**, and **human-centered software systems**.
 
